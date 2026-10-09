@@ -1,0 +1,148 @@
+[
+  {
+    "arquivo_fornecido": "06-NBR-8800-24-25.pdf",
+    "titulo": "ABNT NBR 8800:2024, versão corrigida 2025",
+    "utilizacao": "Base normativa brasileira; itens pertinentes às verificações implementadas",
+    "sha256": "2289dd360ae938982f44ce6b0633968652199604867172e9d0d454e71256b16d",
+    "tamanho_bytes": 44476446
+  },
+  {
+    "arquivo_fornecido": "04-P901-23W.pdf",
+    "titulo": "Companion v16.0, Volume 1: Design Examples (2023)",
+    "utilizacao": "II.A-17B: PDF 720–733; II.A-18: 740–744; II.A-19B: 753–769; II.A-6:620–624; II.A-7:637–639; II.A-19A:745–752",
+    "sha256": "ec25b52e1d7b6b9ec9e5eaccc27452153208784d7d715908daa2595dd8f92423",
+    "tamanho_bytes": 19699680
+  },
+  {
+    "arquivo_fornecido": "05-P902-23W.pdf",
+    "titulo": "Companion v16.0, Volume 2: Design Tables (2023)",
+    "utilizacao": "Sumário/domínio das tabelas; 10-A/10-B não aplicadas a perfis I",
+    "sha256": "9f1bf223939ce7b64b3b8c24fef312d11269664b77518cb57a6fa1631a017989",
+    "tamanho_bytes": 8855767
+  },
+  {
+    "arquivo_fornecido": "06-726569040-1-2-3-Simple-Shear-Connections-AISC.pdf",
+    "titulo": "Simple Shear Connections, exemplos AISC v15",
+    "utilizacao": "Comparação histórica dos exemplos de ligações simples",
+    "sha256": "4cbcd7d6c55cab48fc88d465531307e6d29c57240306f1ac66756d47d18c76f2",
+    "tamanho_bytes": 37307148
+  },
+  {
+    "arquivo_fornecido": "01-790747119-AISC-Steel-Design-Examples-v16-0.pdf",
+    "titulo": "AISC Design Examples v16, subconjunto didático",
+    "utilizacao": "Identificação de abrangência e edição",
+    "sha256": "7d843ea3d5139fda5616e1cbd2ad642c2c6950b77bc2cef514c8aeb51340a7c5",
+    "tamanho_bytes": 5955746
+  },
+  {
+    "arquivo_fornecido": "03-62_01_053_Err.pdf",
+    "titulo": "Engineering Journal 2025, errata de Torsion of Rectangular Connection Elements",
+    "utilizacao": "Identificação correta do artigo ao qual se aplica",
+    "sha256": "6cd6d638c580f78b3368bb0ee919aec2250568fa0fa17b62e5b2be5d3061d8ad",
+    "tamanho_bytes": 70547
+  },
+  {
+    "arquivo_fornecido": "02-AISC-Steel-Construction-Manual-13th-Part-7.pdf",
+    "titulo": "AISC Manual 13ª edição, Parte 7",
+    "utilizacao": "Referência histórica, não base dos coeficientes atuais",
+    "sha256": "04982caedafa1896a58b670712654070e9bef6c613ee2b1f6d8f5d1f3f503609",
+    "tamanho_bytes": 5179551
+  },
+  {
+    "arquivo_fornecido": "07-design-of-all-bolted-extended-double-angle-single-angle-and-tee-shear-connections.pdf",
+    "titulo": "Green, Sputo e Higgins, University of Florida, 2005",
+    "utilizacao": "Pesquisa para próxima família: cantoneiras e tês",
+    "sha256": "566bdad25a76974ab5e2500843ac45802c269efb87ca54ef5c0df6ad30cfa990",
+    "tamanho_bytes": 4942023
+  },
+  {
+    "arquivo_fornecido": "05-03-Liga-es-Flex-veis.pdf",
+    "titulo": "Material didático de ligações flexíveis",
+    "utilizacao": "Procedimentos single plate, p.32–43",
+    "sha256": "01fcd4917de5f6cb49f4b4936cd0cbd9fb3fdcf86176b0de93a620123bdb0aed",
+    "tamanho_bytes": 3638627
+  },
+  {
+    "arquivo_fornecido": "02-Anota-es-de-aula.pdf",
+    "titulo": "Material didático — anotações de aula",
+    "utilizacao": "Exemplo W310×21, PDF p.4–7",
+    "sha256": "5cffdd4d8c8bf990093207f8503631184e374851c8e88e41e344325ba38f71df",
+    "tamanho_bytes": 21298358
+  },
+  {
+    "arquivo_fornecido": "14-Modulo-10-aula-2-Viga-Pilar-Flexiveis.xlsx",
+    "titulo": "Planilha do curso, viga–pilar flexível",
+    "utilizacao": "Origem do catálogo: Laminados/CS/CVS/VS",
+    "sha256": "57ec734f12cea0a23a434a4783c50113ade27c95f091feba20e6b69b9030f590",
+    "tamanho_bytes": 459122
+  },
+  {
+    "arquivo_fornecido": "15-Modulo-10-aula4-Viga-Viga-flex.xlsx",
+    "titulo": "Planilha do curso, viga–viga flexível",
+    "utilizacao": "Apoio para estudo da geometria e roteiro",
+    "sha256": "1a9dbf57e04ec4a9f47626956e9b37c13cb0d3bbddc2e9e6488af3742a5025ee",
+    "tamanho_bytes": 410660
+  },
+  {
+    "arquivo_fornecido": "01-fam-tabelas-perfil-soldado.pdf",
+    "titulo": "Catálogo de perfis soldados",
+    "utilizacao": "Conferência da designação CS600×281",
+    "sha256": "5f922ba20671a21f5e0fc648f9ff8c1fe3fee935783eae93a4c42bf3bd20d1e7",
+    "tamanho_bytes": 3121366
+  },
+  {
+    "arquivo_fornecido": "03-Perfis-W.pdf",
+    "titulo": "Catálogo Gerdau de perfis W",
+    "utilizacao": "Conferência das seções prioritárias",
+    "sha256": "d73425271ec5e5bd241ba5dc353faf69fb94f1b905d05fa60b61e6293df98b7a",
+    "tamanho_bytes": 803460
+  },
+  {
+    "titulo": "Usiminas — Catálogo de chapas grossas, atualizado em julho de 2022",
+    "url": "https://usiminas.com/wp-content/uploads/2024/04/CatalagoChapasGrossas.pdf",
+    "utilizacao": "Página impressa 29: USI-CIVIL 300/350, propriedades mínimas e faixa de espessuras 6 a 75 mm; consulta em 2026-10-09"
+  },
+  {
+    "titulo": "Muir e Hewitt (2009), Design of Unstiffened Extended Single-Plate Shear Connections",
+    "url": "https://ej.aisc.org/index.php/engj/article/download/1228/1227/1227",
+    "utilizacao": "Delimitação da variante estendida até mesas; não se presume ganho de estabilidade ao conectar às mesas"
+  },
+  {
+    "titulo": "Thornton e Fortney (2011), On the Need for Stiffeners for and the Effect of Lap Eccentricity on Extended Single-Plate Connections",
+    "url": "https://ej.aisc.org/index.php/engj/article/view/1008",
+    "utilizacao": "Referência para pesquisa do modelo de estabilidade e efeito da excentricidade transversal, ainda não implementado integralmente"
+  },
+  {
+    "titulo": "SCI/BCSA P358, Simple Joints to Eurocode 3, 2014",
+    "url": "https://www.steelconstruction.info/images/a/a9/SCI_P358.pdf",
+    "utilizacao": "Seção 5: geometrias, bloco, interação local da alma e punção p.128; respeitada distinção entre V normal e amarração acidental"
+  },
+  {
+    "titulo": "Dowswell, 2018, coped beam design, Engineering Journal 55(4)",
+    "url": "https://ej.aisc.org/index.php/engj/issue/download/209/23",
+    "utilizacao": "Páginas 231–242: equações do recorte superior, condições de contenção e comprimento conectado; confrontado com P901 II.A-6"
+  },
+  {
+    "titulo": "Kapp (1974), Yield Line Analysis of a Web Connection in Direct Tension, Engineering Journal 11(2), 38–41",
+    "url": "https://ej.aisc.org/index.php/engj/article/download/1288/1287",
+    "utilizacao": "Equação 8 com bordas apoiadas; comparação do exemplo 3. Consulta do artigo pela web em 2026-10-09."
+  },
+  {
+    "titulo": "Motallebi, Lignos e Rogers (2018), Behaviour of Stiffened Extended Shear Tab Connections under Gravity-Induced Shear Force, JCSR 148, 336–350",
+    "url": "https://infoscience.epfl.ch/server/api/core/bitstreams/d410aee0-f9e5-4083-a911-b6029993bb35/content",
+    "doi": "10.1016/j.jcsr.2018.06.011",
+    "utilizacao": "Leitura do artigo completo; limites do procedimento não enrijecido, interação chapa/apoio e condição complementar de compacidade. Não usado como validação integral da geometria do app.",
+    "sha256": "5a6c059a5f674c75a36fb4abf8afb47c7256689c15e7d8c79b1a667066dd3f6f"
+  },
+  {
+    "titulo": "Fortney e Thornton (2016), Analysis and Design of Stabilizer Plates in Single-Plate Shear Connections, Engineering Journal 53(1), 1–28",
+    "url": "https://ej.aisc.org/index.php/engj/article/download/1095/1094/1094",
+    "utilizacao": "Pesquisa de limites dos modelos estabilizados. A geometria de estabilizadores não foi equiparada automaticamente à chapa vertical entre mesas do usuário."
+  },
+  {
+    "titulo": "Thomas, Driver, Callele e Oosterhof (2014), Design and Behaviour of Extended Shear Tabs Under Combined Loads, SCER 005, University of Alberta",
+    "url": "https://www.steelcentre.ca/_files/ugd/7b6522_403aeeaa40534659b55c46cbec0e842c.pdf",
+    "sha256": "ae099893e47e8706e5f459fa9b8b87348220c98a081b8dc56dcb60078ea7af92",
+    "utilizacao": "Revisão adicional: capítulos 4.4, 5.4 e 6.3. O programa de ensaios e os limites declarados não validam automaticamente a chapa vertical entre mesas na alma de viga. As recomendações de outra configuração não foram transplantadas para remover as pendências do app."
+  }
+]

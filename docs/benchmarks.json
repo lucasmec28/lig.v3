@@ -1,0 +1,132 @@
+[
+  {
+    "verificação": "Referência · força no parafuso (e = a/2)",
+    "calculado": 31.81980515339464,
+    "referência": 31.82,
+    "unidade": "kN",
+    "erro": 0.00019484660536051024,
+    "tolerância": 0.01,
+    "atende": true,
+    "fonte": "Anotações de aula, PDF p.4; geometria original, V puro"
+  },
+  {
+    "verificação": "Referência · ruptura ao corte da chapa",
+    "calculado": 123.08799999999998,
+    "referência": 123.0,
+    "unidade": "kN",
+    "erro": 0.08799999999997965,
+    "tolerância": 0.15,
+    "atende": true,
+    "fonte": "Anotações de aula, PDF p.5; espessura e furação originais"
+  },
+  {
+    "verificação": "AISC II.A-17B · interação de escoamento",
+    "calculado": 0.1813949601865536,
+    "referência": 0.181,
+    "unidade": "—",
+    "erro": 0.00039496018655360565,
+    "tolerância": 0.002,
+    "atende": true,
+    "fonte": "P901-23W, IIA-187 / PDF p.727"
+  },
+  {
+    "verificação": "AISC II.A-17B · interação de ruptura",
+    "calculado": 0.5004974302464533,
+    "referência": 0.5,
+    "unidade": "—",
+    "erro": 0.0004974302464533231,
+    "tolerância": 0.002,
+    "atende": true,
+    "fonte": "P901-23W, IIA-188 / PDF p.728"
+  },
+  {
+    "verificação": "AISC II.A-19B · interação de ruptura",
+    "calculado": 0.5916391739747119,
+    "referência": 0.592,
+    "unidade": "—",
+    "erro": 0.0003608260252880857,
+    "tolerância": 0.003,
+    "atende": true,
+    "fonte": "P901-23W, IIA-223 / PDF p.763"
+  },
+  {
+    "verificação": "AISC II.A-19B · momento nominal da chapa",
+    "calculado": 2109.375,
+    "referência": 2110,
+    "unidade": "kip·in",
+    "erro": 0.625,
+    "tolerância": 2,
+    "atende": true,
+    "fonte": "P901-23W, IIA-219/220 / PDF p.759–760"
+  },
+  {
+    "verificação": "AISC II.A-19B · bloco U da chapa",
+    "calculado": 541.97,
+    "referência": 542,
+    "unidade": "kip",
+    "erro": 0.029999999999972715,
+    "tolerância": 1,
+    "atende": true,
+    "fonte": "P901-23W, IIA-226 / PDF p.766; áreas arredondadas do exemplo"
+  },
+  {
+    "verificação": "AISC II.A-19A · CIR sob momento puro",
+    "calculado": 26.03153570227082,
+    "referência": 26.0,
+    "unidade": "in",
+    "erro": 0.031535702270819144,
+    "tolerância": 0.05,
+    "atende": true,
+    "fonte": "P901-23W PDF p.747; coeficiente C′ do Manual"
+  },
+  {
+    "verificação": "AISC II.A-19B · CIR sob momento puro",
+    "calculado": 38.66933782326641,
+    "referência": 38.7,
+    "unidade": "in",
+    "erro": 0.030662176733592617,
+    "tolerância": 0.05,
+    "atende": true,
+    "fonte": "P901-23W PDF p.755; coeficiente C′ do Manual"
+  },
+  {
+    "verificação": "AISC II.A-6 · recorte superior, momento nominal",
+    "calculado": 1232.674844886858,
+    "referência": 1230,
+    "unidade": "kip·in",
+    "erro": 2.6748448868579544,
+    "tolerância": 5,
+    "atende": true,
+    "fonte": "P901-23W PDF p.620–623; integração da seção sem raios"
+  },
+  {
+    "verificação": "AISC II.A-7 · recorte duplo, momento nominal",
+    "calculado": 420.328125,
+    "referência": 421,
+    "unidade": "kip·in",
+    "erro": 0.671875,
+    "tolerância": 1,
+    "atende": true,
+    "fonte": "P901-23W PDF p.637–639"
+  },
+  {
+    "verificação": "AISC II.A-19B · plastificação da alma",
+    "calculado": 42.35374649844409,
+    "referência": 42.4,
+    "unidade": "kip",
+    "erro": 0.04625350155590979,
+    "tolerância": 0.1,
+    "atende": true,
+    "fonte": "P901-23W PDF p.768 / IIA-228; eq.9-45; dados arredondados publicados"
+  },
+  {
+    "verificação": "Kapp · Exemplo 3, placa apoiada",
+    "calculado": 69.74158704759002,
+    "referência": 69.74,
+    "unidade": "kip",
+    "erro": 0.0015870475900214842,
+    "tolerância": 0.05,
+    "atende": true,
+    "fonte": "Kapp (1974), Engineering Journal 11(2), p.40; eq.8, sem fator de segurança"
+  }
+]
